@@ -1,0 +1,26 @@
+img {
+    height: 225px;
+    width: 235px;
+    
+}
+
+h1 {
+    text-align: center;
+    color: rgb(138, 92, 182);
+}
+
+div {
+    background-color: rgb(241, 178, 228);
+    background-image: linear-gradient(to bottom right, rgb(252, 207, 214), rgb(187, 71, 216));
+    text-align: center;
+}
+
+p {
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+}
+
+h2 {
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+ }
